@@ -1,6 +1,6 @@
 # ATP - Implementation
 
-### Reference: [Paper](https://github.com/Lonelypheonix/PrivTC-Implementation/blob/main/Paper/Collecting_Individual_Trajectories_under_Local_Differential_Privacy.pdf)
+### Reference: [Paper](https://github.com/Lonelypheonix/ATP-Implementation/blob/main/Paper/Trajectory%20Data%20Collection%20with%20Local%20Differential%20Privacy.pdf)
 
 ```
 Yuemin Zhang, Qingqing Ye, Rui Chen, Haibo Hu, and Qilong Han. 2023.
@@ -10,7 +10,7 @@ https://doi.org/10.14778/3603581.3603597
 
 ## Implementation
 
-Please Check the example code to understand how it works [Example python notebook](https://github.com/Lonelypheonix/PrivTC-Implementation/blob/main/Privtc_Reproduction%20.ipynb). 
+Please Check the example code to understand how it works [Example python notebook](https://github.com/Lonelypheonix/ATP-Implementation/blob/main/ATP%20Implementation.ipynb). 
 
 
 ## Note:
