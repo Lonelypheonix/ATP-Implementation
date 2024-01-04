@@ -4,10 +4,10 @@ import time
 import matplotlib.pyplot as plt
 import random
 
-#Path='traj_LDP_submission_support/data/NYC/'
-Path='traj_LDP_submission_support/data/CHI/'
-# Path='traj_LDP_submission_support/data/CLE/'
-# Path='traj_LDP_submission_support/data/CPS/'
+#Path='/content/ATP-Implementation/Dataset/NYC/'
+Path='/content/ATP-Implementation/Dataset/CHI/'
+# Path='/content/ATP-Implementation/Dataset/CLE/'
+# Path='/content/ATP-Implementation/Dataset/CPS/'
 
 with open(Path + 'traj_list.pickle', 'rb') as traj_list_read:
     traj_list = pickle.load(traj_list_read)
